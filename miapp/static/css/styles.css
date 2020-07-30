@@ -13,7 +13,7 @@ body{
 header{
     width: 1200px;
     height: 140px;
-    background-color: #4C9B46;
+    background-color: #3C5D72;
     margin: 0 auto;
     /*color: white;*/
 }
@@ -46,8 +46,8 @@ nav{
     width: 1250px;
     height: 40px;
     margin: 0 auto;
-    background-color: #72643C;
-    border: 1px solid #72643C;
+    background-color: #536068;
+    border: 1px solid #536068;
     box-shadow: 0 22px 22px gray;
     font-size: 15px;
 }
@@ -69,8 +69,8 @@ nav ul li a{
 }
 /*efectos en los hipervinculos*/
 nav ul li a:hover{
-    background-color: #4C9B46;
-    box-shadow: 0 0 0 #444 inset;
+    background-color: #3C5D72;
+    box-shadow: 0 0 0 #3C5D72 inset;
     transition: all 300ms;
     color: white;
 }
@@ -83,20 +83,20 @@ nav ul li a:hover{
 .esquina-izquierda{
     display: block;
     border-left: 20px solid transparent;
-    border-top: 10px solid #72643C;
+    border-top: 10px solid #536068;
     float: left;
 }
 .esquina-derecha{
     display: block;
     border-right: 20px solid transparent;
-    border-top: 10px solid #72643C;
+    border-top: 10px solid #536068;
     float: right;
 }
 .relleno-barra{
     display: block;   
     width: 1210px;
     height: 10px;
-    background: #72643C;
+    background: #536068;
     float: left;
 }
 #content{
@@ -125,8 +125,8 @@ nav ul li a:hover{
 /*estilo para el footer*/
 footer{
     width: 1250px;
-    background-color: #4C9B46;
-    border : 1px solid #4C9B46;
+    background-color: #3C5D72;
+    border : 1px solid #3C5D72;
     color: #d1d4d6;
     text-align: center;
     margin: 0 auto;
